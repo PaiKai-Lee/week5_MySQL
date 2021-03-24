@@ -27,3 +27,18 @@
 
 ![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/selectOrderby3.PNG)
 
+### 使用 SELECT 指令取得欄位 username 是 ply 的使用者資料。
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/ply.PNG)
+
+### 使用 SELECT 指令取得欄位 username 是 ply、且欄位 password 也是 ply 的資料。
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/ply2.PNG)
+
+### 使用 UPDATE 指令更新欄位 username 是 ply 的使用者資料，將資料中的 name 欄位改成【丁滿】。
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/din.PNG)
+
+### 使用 DELETE 指令刪除所有在 user 資料表中的資料。
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/delete.PNG)
