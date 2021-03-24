@@ -6,3 +6,11 @@
 
 ![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/insert.PNG)
 ![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/insert2.PNG)
+
+### 使用 SELECT 指令取得所有在 user 資料表中的使用者資料。
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/select.PNG)
+
+### 使用 SELECT 指令取得 user 資料表中總共有幾筆資料。
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/select_total.PNG)
