@@ -14,3 +14,13 @@
 ### 使用 SELECT 指令取得 user 資料表中總共有幾筆資料。
 
 ![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/select_total.PNG)
+
+### 使用 SELECT 指令取得所有在 user 資料表中的使用者資料，並按照 time 欄位，由近到遠排序。
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/selectOrderby.PNG)
+
+### 使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/selectOrderby2.PNG)
+**因2~5都是同時間加入,故再加入第6筆資料做出區隔後取4~6**
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/selectOrderby3.PNG)
+
