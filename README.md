@@ -19,7 +19,7 @@
 
 ![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/selectOrderby.PNG)
 
-### 使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。
+### 使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。<br>
 
 ![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/selectOrderby2.PNG)
 <br>
