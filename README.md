@@ -42,3 +42,11 @@
 ### 使用 DELETE 指令刪除所有在 user 資料表中的資料。
 
 ![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/delete.PNG)
+
+---
+
+### 建立一個message表單輸入資料
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/mtable.PNG)
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/message.PNG)
