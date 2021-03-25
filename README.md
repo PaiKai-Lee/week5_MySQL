@@ -45,8 +45,16 @@
 
 ---
 
-### 建立一個message表單輸入資料
+### 建立一個message表單並輸入資料
 
 ![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/mtable.PNG)
 
 ![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/message.PNG)
+
+### 使用 SELECT 搭配 JOIN 的語法，取得所有留言，資料中須包含留言會員的姓名。
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/4-1.PNG)
+
+### 使用 SELECT 搭配 JOIN 的語法，取得 user 資料表中欄位 username 是 ply 的所有留言，<br>資料中須包含留言會員的姓名。
+
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/4-2.PNG)
