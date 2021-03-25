@@ -21,11 +21,11 @@
 
 ### 使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。<br>
 
-![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/selectOrderby2.PNG)
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/limit.PNG)
 
 **因2至5都是同時間加入,故再加入第6筆資料做出區隔後取4至6**
 
-![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/selectOrderby3.PNG)
+![](https://github.com/PaiKai-Lee/week5_MySQL/blob/master/Requirement%203/limit2.PNG)
 
 ### 使用 SELECT 指令取得欄位 username 是 ply 的使用者資料。
 
